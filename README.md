@@ -1,2 +1,1 @@
-# TALPremiumCalculator
-Premium Calculator
+Calculator
